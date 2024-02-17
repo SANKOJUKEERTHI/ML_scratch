@@ -1,1 +1,1 @@
-# pyhton codes for various ML algorithms without using built in libraries
+# python codes for various ML algorithms without using built in libraries
