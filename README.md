@@ -1,1 +1,1 @@
-# ML_scratch
+# pyhton codes for various ML algorithms without using built in libraries
